@@ -106,7 +106,7 @@ namespace tic_tac_toe__game
                         switch (choice)
                         {
                             case 'y':
-                                Console.WriteLine("Thank you for playinig ");
+                                Console.WriteLine("Thank you for playing! ");
                                 System.Environment.Exit(-1);
                                 break;
 
