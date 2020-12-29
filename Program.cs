@@ -12,9 +12,7 @@ namespace tic_tac_toe__game
         static  int player = 1;
         static void Main(string[] args)
         {
-            {
-                 
-            }
+            
             while(true)
             {   Gamemenu();
                 
